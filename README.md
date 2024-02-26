@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Mainnet Forking
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## swapTokensForExactTokens
 
-Try running some of the following tasks:
+![image](https://github.com/JeffreyJoel/Mainnet-Forking-Test/assets/72028836/c75e689a-7416-4456-ba24-cb7e76d13354)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+## addLiquidity
+
+![image](https://github.com/JeffreyJoel/Mainnet-Forking-Test/assets/72028836/7a5a8600-924e-4c2d-97f3-71885031641d)
+
+
